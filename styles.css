@@ -11,9 +11,21 @@ h1{text-align:center;}
 body{background-color: aqua;} 
 body {
   background-image: url(hhttps://0nlyshirt.com/cdn/shop/files/hq720_jpg_2000x.png?v=1703980365);
-  background-repeat: no-repeat; background-attachment: fixed;background-size: 100%;}
+  background-repeat: no-repeat; background-attachment:fixed ; background-size: cover;}
 body{
     background-image: url(https://v.wpimg.pl/YzRiY2ExdhszCy8BagN7DnBTe1ssWnVYJ0tjEGpJa0JiEXZULBQ8CDcZNhwiCiwKMx4pHDUUdhsiAHZEdFc9EyEZNVM8VzwXMAw9HXAZbk9mD2sKaE5uSjNEbQRzTnQbZw9tH3xLPRlmCzpTdBxoHHAU);
 }
 h1{background-color: black;opacity: 59%;}
 p{background-color: whitesmoke;opacity: 60%;}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+ 
